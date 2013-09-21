@@ -1,0 +1,227 @@
+
+processing words ...
+--------------------------------------------------------------------------------
+
+1 of 114
+2 of 114
+3 of 114
+4 of 114
+5 of 114
+6 of 114
+7 of 114
+8 of 114
+9 of 114
+10 of 114
+11 of 114
+12 of 114
+13 of 114
+14 of 114
+15 of 114
+16 of 114
+17 of 114
+18 of 114
+19 of 114
+20 of 114
+21 of 114
+22 of 114
+23 of 114
+24 of 114
+25 of 114
+26 of 114
+27 of 114
+28 of 114
+29 of 114
+30 of 114
+31 of 114
+32 of 114
+33 of 114
+34 of 114
+35 of 114
+36 of 114
+37 of 114
+38 of 114
+39 of 114
+40 of 114
+41 of 114
+42 of 114
+43 of 114
+44 of 114
+45 of 114
+46 of 114
+47 of 114
+48 of 114
+49 of 114
+50 of 114
+51 of 114
+52 of 114
+53 of 114
+54 of 114
+55 of 114
+56 of 114
+57 of 114
+58 of 114
+59 of 114
+60 of 114
+61 of 114
+62 of 114
+63 of 114
+64 of 114
+65 of 114
+66 of 114
+67 of 114
+68 of 114
+69 of 114
+70 of 114
+71 of 114
+72 of 114
+73 of 114
+74 of 114
+75 of 114
+76 of 114
+77 of 114
+78 of 114
+79 of 114
+80 of 114
+81 of 114
+82 of 114
+83 of 114
+84 of 114
+85 of 114
+86 of 114
+87 of 114
+88 of 114
+89 of 114
+90 of 114
+91 of 114
+92 of 114
+93 of 114
+94 of 114
+95 of 114
+96 of 114
+97 of 114
+98 of 114
+99 of 114
+100 of 114
+101 of 114
+102 of 114
+103 of 114
+104 of 114
+105 of 114
+106 of 114
+107 of 114
+108 of 114
+109 of 114
+110 of 114
+111 of 114
+112 of 114
+113 of 114
+114 of 114
+
+processing categories ...
+--------------------------------------------------------------------------------
+
+1 of 4
+2 of 4
+3 of 4
+4 of 4
+
+start assigning path_similarity...
+--------------------------------------------------------------------------------
+
+Path-Similarity:
+______________
+field.n.01:
+_________________
+cemetery.n.01
+garden.n.03
+park.n.02
+farmland.n.01
+public_square.n.01
+hayfield.n.01
+pasture.n.01
+hop_garden.n.01
+plaza.n.01
+unknown.n.01
+cemetery.n.01
+park.n.01
+village_green.n.01
+field.n.01
+barren.n.01
+grove.n.02
+park.n.02
+grassland.n.01
+______________
+forest.n.01:
+_________________
+pitch.n.10
+yes.n.01
+forest.n.01
+government.n.01
+diversion.n.01
+leisure.n.01
+school.n.01
+sport.n.01
+farming.n.01
+religion.n.02
+utility.n.02
+populace.n.01
+commercial.n.01
+logging.n.01
+aquaculture.n.01
+military.n.01
+retail.n.01
+community_service.n.01
+conservation.n.02
+mining.n.01
+construction.n.01
+allotment.n.01
+education.n.01
+scrub.n.01
+______________
+building.n.01:
+_________________
+greenhouse.n.01
+place_of_worship.n.01
+garage.n.01
+conveyance.n.03
+highway.n.01
+windbreak.n.01
+railroad_track.n.01
+road.n.01
+mine.n.01
+garage.n.01
+piste.n.02
+farmyard.n.01
+observatory.n.01
+tree.n.01
+grass.n.01
+paddock.n.01
+pit.n.09
+airport.n.01
+storehouse.n.01
+office.n.01
+building.n.01
+lane.n.02
+heath.n.01
+______________
+body_of_water.n.01:
+_________________
+reservoir.n.02
+religious.n.01
+sand.n.01
+wetland.n.01
+body_of_water.n.01
+fish_farm.n.01
+island.n.01
+seaport.n.01
+vineyard.n.01
+basin.n.03
+pedestrian.n.01
+pond.n.01
+talus.n.01
+forest.n.02
+beach.n.01
+farm.n.01
+land.n.04
+landfill.n.01
+traffic_island.n.01
